@@ -1,6 +1,6 @@
 # 🛡️ Keylogger Detector + Dummy Keylogger (Educational Use Only)
 
-A Python-based keylogger detection tool with a harmless dummy keylogger included for testing and educational purposes. Made by Otis Hoymans
+A Python-based keylogger detection tool with a harmless dummy keylogger included for testing and educational purposes. Made by Otis Hoymans, a 2nd year student studying Cloud & Cybersecurity @ Thomas More Geel.
 
 ## 📌 Features
 
@@ -22,10 +22,10 @@ A Python-based keylogger detection tool with a harmless dummy keylogger included
 ## 📸 Screenshots
 
 ### Dummy Keylogger:
-![Keylogger Detection Screenshot](img/image.png)
+![Keylogger Detection Screenshot](img/image2.png)
 
 ### Keylogger Detection:
-![Dummy Keylogger Screenshot](img/image2.png)
+![Dummy Keylogger Screenshot](img/image.png)
 
 ## ⚠️ Disclaimer
 This project is strictly for educational and testing purposes. DO NOT use the dummy keylogger on any system without proper authorization and understanding of the legal and ethical implications.
