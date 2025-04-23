@@ -1,6 +1,6 @@
 # 🛡️ Keylogger Detector + Dummy Keylogger (Educational Use Only)
 
-A Python-based keylogger detection tool with a harmless dummy keylogger included for testing and educational purposes.
+A Python-based keylogger detection tool with a harmless dummy keylogger included for testing and educational purposes. Made by Otis Hoymans
 
 ## 📌 Features
 
@@ -18,6 +18,14 @@ A Python-based keylogger detection tool with a harmless dummy keylogger included
 ### Logs:
 - Suspicious processes are logged to `logs/detector.log`
 - Captured keystrokes from the dummy keylogger are logged to `logs/keylog.log`
+
+## 📸 Screenshots
+
+### Dummy Keylogger:
+![Keylogger Detection Screenshot](img/image.png)
+
+### Keylogger Detection:
+![Dummy Keylogger Screenshot](img/image2.png)
 
 ## ⚠️ Disclaimer
 This project is strictly for educational and testing purposes. DO NOT use the dummy keylogger on any system without proper authorization and understanding of the legal and ethical implications.
@@ -51,6 +59,9 @@ python ./detector.py
 ├── dummy_keylogger.py  # The dummy keylogger for testing purposes
 ├── requirements.txt    # Python dependencies file
 ├── README.md           # This file
+├── /img                # Screenshots folder
+│   ├── image.png       # Keylogger detection screenshot
+│   └── image2.png      # Dummy keylogger screenshot
 └── /logs               # Logs folder (created automatically)
     ├── detector.log    # Log for suspicious processes
     └── keylog.log      # Log for captured keystrokes (dummy keylogger)

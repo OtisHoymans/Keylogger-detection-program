@@ -1,0 +1,4 @@
+2025-04-23 13:03:51,113 - INFO - Starting process monitoring...
+2025-04-23 13:03:51,122 - WARNING - Suspicious process detected: {'pid': 0, 'name': 'System Idle Process', 'cmdline': 'Unavailable', 'create_time': 'Unavailable', 'exe': 'Access Denied', 'username': 'Unknown'}
+2025-04-23 13:03:54,023 - WARNING - Suspicious process detected: {'pid': 14812, 'name': 'python.exe', 'cmdline': 'C:\\Users\\otish\\AppData\\Local\\Programs\\Python\\Python311\\python.exe .\\dummylogger.py', 'create_time': '2025-04-23 13:03:44', 'exe': 'C:\\Users\\otish\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', 'username': 'OTIS\\otish'}
+2025-04-23 13:10:43,244 - INFO - Monitoring stopped.
